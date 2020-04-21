@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
-<root>	
-   
-    	<entry>
-	    <id><![CDATA[0119002700]]></id>
-	    <title><![CDATA[Fender American Deluxe Strat MN Sunburst]]></title>
-	</entry>
-		
-	<entry>
+<root>    	
+<entry>
 	<title><![CDATA[Fender American Deluxe Strat MN Sunburst]]></title>
 	<link><![CDATA[https://www.keyboardcorner.com.au/fender-american-deluxe-strat-mn-sunburst/]]></link>
 	<description><![CDATA[Fender American Deluxe Stratocaster]]></description>
