@@ -5,25 +5,14 @@
 <title><![CDATA[Data feed Title]]></title>
 <link><![CDATA[http://www.website.com]]></link>
 <description><![CDATA[Data feed description.]]></description>
-<entry>
+<item>
 	<title><![CDATA[Fender American Deluxe Strat MN Sunburst]]></title>
 	<link><![CDATA[https://www.keyboardcorner.com.au/fender-american-deluxe-strat-mn-sunburst/]]></link>
 	<description><![CDATA[Fender American Deluxe Stratocaster]]></description>
-	<g:expiration_date><![CDATA[2016-01-06]]></g:expiration_date>
+	
 	<g:id><![CDATA[996]]></g:id>
-	<g:condition><![CDATA[new]]></g:condition>
-	<g:product_type><![CDATA[Guitars &gt; Electric Guitars]]></g:product_type>
-	<g:product_type><![CDATA[Guitars &gt; Electric Guitars &gt; Fender]]></g:product_type>
-	<g:brand><![CDATA[Fender]]></g:brand>
-	<g:image_link><![CDATA[http://www.keyboardcorner.com.au/products/996/images/6728/0119002700__67014.1425441380.1280.1280.png?c=2]]></g:image_link>
-	<g:model_number><![CDATA[0119002700]]></g:model_number>
-	<g:shipping_weight><![CDATA[21.00 kg]]></g:shipping_weight>
-	<g:google_product_category><![CDATA[Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts &gt; Musical Instruments &gt; String Instruments &gt; Guitars]]></g:google_product_category>
-	<g:gtin><![CDATA[717669758059]]></g:gtin>
-	<g:mpn><![CDATA[0119002700]]></g:mpn>
-	<g:availability><![CDATA[in stock]]></g:availability>
-	<g:price><![CDATA[2499]]></g:price>
-</entry>
+	
+</item>
 
 </channel>
 </rss>
