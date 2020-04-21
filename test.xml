@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
-<root>    	
+<root>  
+<title><![CDATA[Data feed Title]]></title>
+<link><![CDATA[http://www.website.com]]></link>
+<description><![CDATA[Data feed description.]]></description>
 <entry>
 	<title><![CDATA[Fender American Deluxe Strat MN Sunburst]]></title>
 	<link><![CDATA[https://www.keyboardcorner.com.au/fender-american-deluxe-strat-mn-sunburst/]]></link>
