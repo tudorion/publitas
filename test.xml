@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
 <root>	
-    <title><![CDATA[Keyboard Corner &amp;amp; KC&amp;#039;s Rockshop - Melbournes biggest independent musical instrument store.]]></title>
-    <link><![CDATA[https://www.keyboardcorner.com.au]]></link>
-    <updated><![CDATA[2015-12-08T18:46:03Z]]></updated>
-    <author>
-        <name><![CDATA[Keyboard Corner &amp;amp; KC&amp;#039;s Rockshop - Melbournes biggest independent musical instrument store.]]></name>
-    </author>
-    <id><![CDATA[tag:1449560763]]></id>
+    <feedTitle><![CDATA[Keyboard Corner &amp;amp; KC&amp;#039;s Rockshop - Melbournes biggest independent musical instrument store.]]></feedTitle>
+    <feedLink><![CDATA[https://www.keyboardcorner.com.au]]></feedLink>
+    <feedUpdated><![CDATA[2015-12-08T18:46:03Z]]></feedUpdated>
+    <feedAuthor>
+       <nameF><![CDATA[Keyboard Corner &amp;amp; KC&amp;#039;s Rockshop - Melbournes biggest independent musical instrument store.]]></nameF>
+    </feedAuthor>
+    <feedId><![CDATA[tag:1449560763]]></feedId>
     <entry>
 	<title><![CDATA[Fender American Deluxe Strat MN Sunburst]]></title>
 	<link><![CDATA[https://www.keyboardcorner.com.au/fender-american-deluxe-strat-mn-sunburst/]]></link>
