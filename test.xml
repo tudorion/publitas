@@ -5,14 +5,14 @@
 <title><![CDATA[Data feed Title]]></title>
 <link><![CDATA[http://www.website.com]]></link>
 <description><![CDATA[Data feed description.]]></description>
-<item>
+<entry>
 	<title><![CDATA[Fender American Deluxe Strat MN Sunburst]]></title>
 	<link><![CDATA[https://www.keyboardcorner.com.au/fender-american-deluxe-strat-mn-sunburst/]]></link>
 	<description><![CDATA[Fender American Deluxe Stratocaster]]></description>
 	
 	<g:id><![CDATA[996]]></g:id>
 	
-</item>
+</entry>
 
 </channel>
 </rss>
