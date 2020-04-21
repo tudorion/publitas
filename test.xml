@@ -5,7 +5,7 @@
 <title><![CDATA[Data feed Title]]></title>
 <link><![CDATA[http://www.website.com]]></link>
 <description><![CDATA[Data feed description.]]></description>
-<entry>
+<item>
 	<title><![CDATA[Fender American Deluxe Strat MN Sunburst]]></title>
 	<link><![CDATA[https://www.keyboardcorner.com.au/fender-american-deluxe-strat-mn-sunburst/]]></link>
 	<description><![CDATA[Fender American Deluxe Stratocaster]]></description>
@@ -23,7 +23,7 @@
 	<g:mpn><![CDATA[0119002700]]></g:mpn>
 	<g:availability><![CDATA[in stock]]></g:availability>
 	<g:price><![CDATA[2499]]></g:price>
-</entry>
+</item>
 
 </channel>
 </rss>
