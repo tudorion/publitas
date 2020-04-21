@@ -25,7 +25,7 @@
 	<g:gtin><![CDATA[717669758059]]></g:gtin>
 	<g:mpn><![CDATA[0119002700]]></g:mpn>
 	<g:availability><![CDATA[in stock]]></g:availability>
-	<g:price><![CDATA[2499.0000 AUD]]></g:price>
+	<g:price><![CDATA[2499]]></g:price>
 </entry>
 <entry>
 	<title><![CDATA[Fender Standard Stratocaster Left-Handed RW Sunburst]]></title>
@@ -46,7 +46,7 @@
 	<g:google_product_category><![CDATA[Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts &gt; Musical Instruments &gt; String Instruments &gt; Guitars]]></g:google_product_category>
 	<g:mpn><![CDATA[0144620532]]></g:mpn>
 	<g:availability><![CDATA[in stock]]></g:availability>
-	<g:price><![CDATA[899.0000 AUD]]></g:price>
+	<g:price><![CDATA[899]]></g:price>
 </entry>
 <entry>
 	<title><![CDATA[Fender Mustang IV v2 (150 Watt)]]></title>
@@ -66,7 +66,7 @@
 	<g:google_product_category><![CDATA[Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts &gt; Musical Instrument &amp; Orchestra Accessories &gt; Musical Instrument Amplifiers]]></g:google_product_category>
 	<g:mpn><![CDATA[2300403900]]></g:mpn>
 	<g:availability><![CDATA[in stock]]></g:availability>
-	<g:price><![CDATA[899.0000 AUD]]></g:price>
+	<g:price><![CDATA[899]]></g:price>
 </entry>
 <entry>
 	<title><![CDATA[Peavey 3120 120W Valve Head and Peavey 430A Cab]]></title>
@@ -86,7 +86,7 @@
 	<g:gtin><![CDATA[14367153323]]></g:gtin>
 	<g:mpn><![CDATA[3120 HEAD]]></g:mpn>
 	<g:availability><![CDATA[out of stock]]></g:availability>
-	<g:price><![CDATA[2049.0000 AUD]]></g:price>
+	<g:price><![CDATA[2049]]></g:price>
 </entry>
 <entry>
 	<title><![CDATA[Ashton Trigger Capo]]></title>
@@ -103,7 +103,7 @@
 	<g:google_product_category><![CDATA[Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts &gt; Musical Instrument &amp; Orchestra Accessories &gt; String Instrument Accessories &gt; Guitar Accessories]]></g:google_product_category>
 	<g:gtin><![CDATA[9335679011776]]></g:gtin>
 	<g:availability><![CDATA[in stock]]></g:availability>
-	<g:price><![CDATA[17.9900 AUD]]></g:price>
+	<g:price><![CDATA[17.99]]></g:price>
 </entry>
 <entry>
 	<title><![CDATA[Ibanez Soundgear SR300 IPT Bass Guitar Pewter *Online*]]></title>
@@ -124,7 +124,7 @@
 	<g:mpn><![CDATA[SR300IPT]]></g:mpn>
 	<g:availability><![CDATA[in stock]]></g:availability>
 	<g:sale_price><![CDATA[615.0000 AUD]]></g:sale_price>
-	<g:price><![CDATA[769.0000 AUD]]></g:price>
+	<g:price><![CDATA[769.00]]></g:price>
 	<g:shipping><g:price><![CDATA[18.0000 AUD]]></g:price></g:shipping>
 </entry>
 </root>
